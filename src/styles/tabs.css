@@ -1,0 +1,8 @@
+/* Custom clip path for the active hexagonal tab */
+/* .clip-path-hexagon {
+    clip-path: polygon(15px 0%, calc(100% - 15px) 0%, 100% 50%, calc(100% - 15px) 100%, 15px 100%, 0% 50%);
+  } */
+  .clip-path-hexagon {
+    padding: 31px 28px 30px 39px;
+    clip-path: polygon(15px 0%, calc(100% - 15px) 0%, 100% 50%, calc(100% - 15px) 100%, 15px 100%, 19% 50%)
+  }
